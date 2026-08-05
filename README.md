@@ -154,6 +154,7 @@ pip install -r requirements.txt
 
 All output PNG images are automatically named and saved into the `output/` directory:
 
+```text
 gee-evs-mapper/
 |-- output/
 |   |-- assam_kaziranga_vector.png
@@ -163,3 +164,4 @@ gee-evs-mapper/
 |-- requirements.txt
 |-- .gitignore
 `-- README.md
+```
